@@ -1,0 +1,3 @@
+Curso de Introdução a programação em Python, baseado em aulas em formato de Jupyter Notebooks . O material é de uso livre para fins educacionais . Não esqueça de dar os créditos!
+
+Para acessar o conteúdo, baixe cada um dos arquivos e os execute em uma IDE com super a Jupyter Notebooks...
